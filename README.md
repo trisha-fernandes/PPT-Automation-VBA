@@ -22,7 +22,7 @@ Below are the two files that are needed
 ## How to use
 **1.** Download both files and save in the same folder
 
-**2.** Click on the 'Create PPT' button in the first tab on the excel SampleWorkbook file
+**2.** Click on the 'Create PPT' button in the first tab on the excel SampleWorkbook file and the PPT will be saved in the 'Generated Reports' folder
 
 **3.** You can then update data in the excel file, go through the VBA code and take help of AI to add/update features
 
